@@ -1,4 +1,4 @@
-# build an app that will search articles using the Reddit API. Using vanilla ES6 along with the Parcel bundler and Bootstrap 4 for the UI.
+build an app that will search articles using the Reddit API. Using vanilla ES6 along with the Parcel bundler and Bootstrap 4 for the UI.
 
 # For run Follow the steps
 1. npm install
