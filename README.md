@@ -1,7 +1,6 @@
-# Reddit_Search_Engine-Using-Parcel---RedditApi
+# build an app that will search articles using the Reddit API. Using vanilla ES6 along with the Parcel bundler and Bootstrap 4 for the UI.
 
-# For run 
-# Follow the steps
+# For run Follow the steps
 1. npm install
 2. npm install parcel-bundler
 3. parcel index.html
